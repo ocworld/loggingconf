@@ -16,5 +16,5 @@ loggingconf.file_config('logconf.yaml')
 loggingconf.file_config('logconf.json')
 ```
 
-## Python Verions
+## Python Versions
 Python 2.7, 3.4, 3.5, 3.6, 3.7
